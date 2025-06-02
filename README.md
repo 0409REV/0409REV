@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Revanth Gunti 👋
 
-<!--
-**0409REV/0409REV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+# 🚀 Data Analyst | Storyteller with Data | Problem Solver
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class RevanthGunti:
+    def __init__(self):
+        self.skills = [
+            "Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
+            "SQL", "AWS Cloud", "Data Cleaning", "Visualization", "EDA"
+        ]
+        self.passions = [
+            "Turning complex data into clear, actionable insights 📊",
+            "Building dashboards that tell compelling stories 📈",
+            "Helping businesses make smarter, data-driven decisions 💡"
+        ]
+        self.contact = {
+            "Email": "revanthgunti@gmail.com",
+            "LinkedIn": "https://www.linkedin.com/in/revanth-gunti-911a00245/"
+        }
+    
+    def connect(self):
+        print("✨ Let's connect and create impact through data! ✨")
